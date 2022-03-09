@@ -2,7 +2,7 @@
 # STAT 6289 - Statistical Deep Learning - HW2
 #
 # * Name: Baldur Hua 
-# * [Github link]()
+# * [Github link](https://github.com/BaldurHua/STAT6289-Deep-Learning)
 
 #%%[markdown]
 # Question 1
